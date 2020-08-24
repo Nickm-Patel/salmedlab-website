@@ -1,0 +1,18 @@
+*{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+body{
+    background-color: azure;
+    coloe: red;
+}
+.main{
+    background:white
+
+}
+.main .headerMenuLeft a{
+    text-decoration: none;
+    
+    
+    
+}
