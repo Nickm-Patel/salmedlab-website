@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,900;1,400&display=swap');
 *{
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     margin: 0;
     padding:0;
     box-sizing: border-box;
@@ -9,7 +8,7 @@
 body{
     font-family: 'montserrat', sans-serif;
     font-size: 13px;
-    
+
 }
 .header{
     background-color:#283593;
